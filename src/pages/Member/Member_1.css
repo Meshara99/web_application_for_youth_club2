@@ -1,0 +1,26 @@
+/* Member_1.css */
+
+h4 {
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  
+  .Para_1 {
+    margin-bottom: 20px;
+  }
+  
+  .Link__apply {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #100f0d;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .Link__apply:hover {
+    background-color: #1e1b14;
+  }
+  

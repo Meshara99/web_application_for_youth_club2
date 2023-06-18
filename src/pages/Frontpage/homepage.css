@@ -1,18 +1,15 @@
 
 .divCarousel{
-    height: 500px;
-    margin-top: 2%;
+    height: 560px;
+    margin-top: 0%;
    
     
 }
-.textH3{
-    color: blue;
-    margin-bottom: 90%;
-    margin-right: 80%;
-    font-size: 200px;
-}
-.img1{
-    height: 80%;
-    margin-bottom: 60%;
-    margin-right: 80%;
+.crslCap1{
+    color: rgb(16, 16, 22);
+    text-shadow: 50cap;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 20%;
+   
+    font-size: 70px;
 }

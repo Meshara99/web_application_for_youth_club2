@@ -1,0 +1,59 @@
+
+
+
+.form {
+    background-color: rgba(39, 30, 21, 0.851); /* Set the opacity value as per your preference */
+    border-radius: 5px;
+    width: 600px;
+    margin: 10px auto;
+    padding: 50px;
+  }
+
+S
+.form-body{
+    text-align: left;
+    padding: 50px 30px;
+}
+
+.form-body > *{
+    padding: 10px;
+}
+
+.form__label{
+    width: 40%;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+.gender {
+    display: flex;
+    align-items: center;
+  }
+  
+  .gender-label {
+    margin-right: 10px;
+    color: aliceblue;
+  }
+  .gender__options {
+    margin-top: 10px;
+   color: aliceblue;
+   
+  }
+  
+  .gender__option {
+    margin-right: 20px;
+    color: white;
+  }
+  .error{
+    color: rgb(221, 100, 42)
+    
+  }
+  
