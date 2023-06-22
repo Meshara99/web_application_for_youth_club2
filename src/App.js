@@ -5,7 +5,7 @@ import NavScrollExample from './components/navibar';
 import Footer from './components/Footer';
 
 import Pathfile from './pages/Pathfile';
-import Homepage from './pages/Frontpage/homepage';
+
 
 
 
